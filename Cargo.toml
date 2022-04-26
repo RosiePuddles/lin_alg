@@ -7,6 +7,7 @@ categories = ["mathematics", "science"]
 keywords = ["linear algebra", "matrix", "maths"]
 description = "Linear algebra implementation in Rust"
 repository = "https://github.com/RosiePuddles/lin_alg"
+license-file = "LICENSE"
 
 [badges]
 maintenance = { status = "actively-developed" }
