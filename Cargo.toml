@@ -1,0 +1,15 @@
+[package]
+name = "lin_alg"
+version = "0.1.0"
+edition = "2021"
+authors = ["nxe"]
+categories = ["mathematics", "science"]
+keywords = ["linear algebra", "matrix", "maths"]
+description = "Linear algebra implementation in Rust"
+repository = "https://github.com/RosiePuddles/lin_alg"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
+itertools = "0.10.3"
